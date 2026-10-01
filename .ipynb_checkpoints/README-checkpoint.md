@@ -157,7 +157,7 @@ In this course most your assignments will be distributed in the form of iPython 
 and we encourage you to work with them through [Jupyter Lab](https://jupyter.org/).
 iPython notebooks, "notebooks" for short, let you write Python code in an interactive environment that
 can display visual elements like images and graphs.
-.
+
 Unfortunately, notebooks are not intended to be edited directly like most source code files.
 So, we will be using Jupyter Lab to work with our notebooks.
 When we run Jupyter Lab, it will open a session in a web browser that allows us to edit and view our notebooks.
